@@ -1,0 +1,31 @@
+body{
+  background-color: black;
+}
+.center{
+  width:400px;
+  margin: 0 auto;
+}
+input{
+  font-size: 2em;
+}
+button{
+  font-size: 2em;
+}
+
+h2{
+  font-size: 3em;
+}
+.card{
+
+
+text-align:center;
+    width: 480px;
+    margin: 20px auto auto auto;
+    border: 1px solid lightgray;
+    border-radius: 14px;
+    padding: 10px;
+    display: flex;
+gap: 20px;
+background-color: grey;
+
+}
